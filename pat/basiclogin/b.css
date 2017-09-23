@@ -1,0 +1,23 @@
+
+@media only screen and (min-width:320px) and (max-width:640px){
+}	
+body{
+	background-image: url("/pat/123.jpg");
+	background-size:1500px 700px;
+	background-repeat: no-repeat;
+	
+	}
+form{
+	margin-left:100px;
+	margin-right:100px;
+	margin-top:20px;
+	color:white;
+	filter:alpha(opacity=60);
+	text-align:center;
+	background-color:black;
+	padding-bottom:20px;
+	padding-top:20px;
+}
+
+
+
